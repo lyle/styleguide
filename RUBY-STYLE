@@ -1,4 +1,8 @@
-= Dan Kubb's Ruby Style Guide
+= Dan Kubb's Ruby Style Guide adabted by Lyle Troxell
+
+As I become a better programer, I intened to change this doccument
+to alighn with how I work. But, more likely, I intend to change
+how I code to align with this document. 
 
 You may not like all rules presented here, but they work very well for
 me and have helped producing high quality code. Everyone is free to
